@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    bindata (2.4.10)
+    paint (2.2.1)
+    spicy-proton (2.1.14)
+      bindata (~> 2.3)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  paint
+  spicy-proton
+
+BUNDLED WITH
+   2.1.4
